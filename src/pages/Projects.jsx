@@ -144,11 +144,11 @@ const AboutMe = () => {
                             <div className="projects-cover2">
                                 <img src={btsworld} className="projects-cover--img"></img>
                                 <div className="projects-cover--details">
-                                    <a href=""  target="_blank" >
+                                    <a href="https://btsworld-home.netlify.app/"  target="_blank" >
                                         <img src={dark_eye} className="projects-cover--details---icon"></img>
                                     </a>
                                         
-                                    <a href=""  target="_blank" >                                    
+                                    <a href="https://github.com/S3bastianUriel/BTSWorld"  target="_blank" >                                    
                                         <img src={github} className="projects-cover--details---icon"></img>
                                     </a>
 
